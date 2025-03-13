@@ -27,7 +27,7 @@ To measure nationalism, I will use each country’s most recent and most popular
 
 **Methodology** 
 
-In the project, I plan to work with scikit learn, pytorch, xgboost tools. At the first instance, I am planning to construct a linear regression model between immigration and nationalism data. Aim of this regression is to prevail how strongly does increasing immigration affects rise of nationalist party vote shares in EU countries. Along with the process of the project and further findings, I may work with time series models or decision tree models too. After finding my results, as an extra research topic in the project, I plan to use my findings to estimate vote shares of nationalist parties in an imaginary upcoming election (e.g 2025 December election), based on found relationship between nationalism-immigration, again by using linear regression. 
+In the project, I plan to work with scikit learn, pytorch, xgboost, BeautifulSoup tools. At the first instance, I am planning to construct a linear regression model between immigration and nationalism data. Aim of this regression is to prevail how strongly does increasing immigration affects rise of nationalist party vote shares in EU countries. Along with the process of the project and further findings, I may work with time series models or decision tree models too. After finding my results, as an extra research topic in the project, I plan to use my findings to estimate vote shares of nationalist parties in an imaginary upcoming election (e.g 2025 December election), based on found relationship between nationalism-immigration, again by using linear regression. 
 
 
 **Further Data Analysis**
