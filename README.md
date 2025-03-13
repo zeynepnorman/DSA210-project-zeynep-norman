@@ -13,7 +13,7 @@ In this project, I aim to find whether recent increases of immigration to Europe
 
 ---
 
-## Plan
+## Project Plan
 
 **Collection and Measurment of Immigration Data**
 
